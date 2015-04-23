@@ -1,0 +1,1 @@
+find . -size 1033c -type f -exec file {} \; -exec cat {} \;
